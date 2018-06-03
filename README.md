@@ -1,3 +1,31 @@
+
+# Manipulando a Câmera
+## Nada de inovador neste repositório, simplesmente mostra como se trabalha com a Câmera usando React Native e Expo, e para salvar capturas utilizei o CameraRoll embora também pudesse fazer uso do FileSystem presente no Expo.
+
+
+
+
+
+### ilustração 01
+![react](https://image.ibb.co/c31QOJ/ilustracao01.png)
+
+
+### ilustração 02
+![react](https://image.ibb.co/idu1xd/ilustracao02.png)
+
+
+### ilustração 03
+![react](https://image.ibb.co/k1eqqy/Codigo_Ilustracao.png)
+
+
+
+
+
+## INSTRUÇÕES  OFICIAIS DE COMO USAR O FRAMEWORK --->
+
+
+
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
